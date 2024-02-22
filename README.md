@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Projeto de Business Intelligence para Análise da Vendas da Clínica Veterinária Sicuro Home Vet
+# Projeto_de_Business_Intelligence_para_Analise_da_Vendas_da_Clinica_Veterinaria_Sicuro_Home_Vet
 
 #### Alun(o/a): [Daiana Maria Mota Augusto Sicuro](https://github.com/daianasicuro).
 #### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/insightds).
